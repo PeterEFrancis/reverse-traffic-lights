@@ -1,6 +1,6 @@
 # reverse-traffic-lights
 
-In a usual game of traffic lights, opponents alternate clicking squares on an `m x n` board and by doing so, progress squares forward (empyty, greem, yellow, red). The board begins empty and once a square is red, it cannot be changed. The players race to make a row, column, or diagonal of three consecutive squares of the same color.
+In a usual game of traffic lights, opponents alternate clicking squares on an `m x n` board and by doing so, progress squares forward (empty, green, yellow, red). The board begins empty and once a square is red, it cannot be changed. The players race to make a row, column, or diagonal of three consecutive squares of the same color.
 
 Here we search for the most possible clicks that can be made on a board without ever having state with three co-linear uni-color squares.
 
